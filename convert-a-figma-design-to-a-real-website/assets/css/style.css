@@ -105,6 +105,7 @@ body {
 .hero__social {
     display: flex;
     align-items: center;
+    margin-top: -50px;
 }
 
 .hero__social a {
